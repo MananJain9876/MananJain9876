@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Manan jain</h1>
+<h1 align="center">Hi 👋, I'm Manan jain Ex- Data Science Inter At Agrim WHoleSale(GurGaon) and Ex SDE Intern PitchMatter(Remote)</h1>
 <h3 align="center">Aspiring Software Engineer with strong logic-building skills, constantly striving to solve real-life problems with the strength of Data Structure And Algorithms. Currently pursuing B.Tech(CSE) at Jaypee University Guna (JUET).</h3>
 
 - 🌱 I’m currently learning **Spring Boot, AWS**
